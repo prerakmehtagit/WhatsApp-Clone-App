@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WhatsApp_Clone.iml" filepath="$PROJECT_DIR$/.idea/modules/WhatsApp_Clone.iml" group="WhatsApp_Clone" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WhatsApp_Clone.iml" filepath="$PROJECT_DIR$/.idea/modules/WhatsApp_Clone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ParseStarterProject/WhatsApp_Clone.ParseStarterProject.iml" filepath="$PROJECT_DIR$/.idea/modules/ParseStarterProject/WhatsApp_Clone.ParseStarterProject.iml" />
     </modules>
   </component>
 </project>
